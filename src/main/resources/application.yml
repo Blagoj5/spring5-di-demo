@@ -3,3 +3,11 @@ baze:
     username: BazeJMS
     password: PasswordJMS
     url: asdwasdwasdJMS
+
+---
+spring:
+  profiles: de
+
+baze:
+  jms:
+    username: BazeJMS***IN**GERMAN

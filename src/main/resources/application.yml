@@ -1,0 +1,5 @@
+baze:
+  jms:
+    username: BazeJMS
+    password: PasswordJMS
+    url: asdwasdwasdJMS
